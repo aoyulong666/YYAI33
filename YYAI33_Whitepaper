@@ -41,14 +41,17 @@ It represents a new form of **Real-World Asset (RWA)**, where off-chain AI compa
 | **Standard** | SPL Token |
 | **Total Supply** | 1,000,000 YYAI33 |
 | **Mint Authority** | Active (to be revoked after liquidity verification) |
-| **Decimals** | 6 |
-| **Contract (Mint Address)** | `（此处填写你的代币 Mint 地址）` |
+| **Decimals** | 9 |
+| **Contract ( Dy3yEZ77RbNTNDBiyXKwnR2n4MjbfHpubWJEqSck29M6 )** |
 | **Launch Date (TGE)** | 2025-10-21 |
 | **Current Circulation** | 100,000 YYAI33 |
 | **Liquidity Source** | Raydium AMM + OKX Web3 DEX (via Jupiter Aggregator) |
 | **Official Website** | [https://stocks33.com] |
 | **Explorer** | [https://solscan.io/token/Dy3yEZ77RbNTNDBiyXKwnR2n4MjbfHpubWJEqSck29M6](https://solscan.io/token/Dy3yEZ77RbNTNDBiyXKwnR2n4MjbfHpubWJEqSck29M6) |
-
+> 🛠️ The Mint Authority of YYAI33 is currently active for technical testing purposes.  
+> It will be permanently revoked after liquidity verification and CoinGecko listing approval to ensure fixed total supply.  
+> 当前 YYAI33 的铸币权限暂未撤销，用于流动性与系统测试，  
+> 在完成 CoinGecko 上架验证后将永久回收，确保总量固定。
 ---
 
 ## 4. Token Distribution 代币分配  

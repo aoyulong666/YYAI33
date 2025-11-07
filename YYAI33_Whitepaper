@@ -1,0 +1,138 @@
+# 🧾 YYAI Token (YYAI33) — Whitepaper / Project Overview
+*(Intercontinental Exchange | stocks33.com)*
+
+---
+
+## 1. Project Introduction 项目介绍  
+
+**YYAI Token (YYAI33)** is a **tokenized AI equity asset** built on the **Solana blockchain**, issued under the **Intercontinental Exchange (stocks33.com)** ecosystem.  
+It represents a new form of **Real-World Asset (RWA)**, where off-chain AI company shares are digitized, stored under trust custody, and mapped to on-chain fungible tokens for transparent, 24/7 trading.
+
+**YYAI33** 是一个基于 **Solana 区块链** 的 **人工智能股权类 RWA 代币**，  
+隶属于 **洲际交易所（Intercontinental Exchange, stocks33.com）** 生态体系。  
+项目旨在将 AI 科技公司股权资产进行数字化映射，通过信托托管与链上代币化结构，实现 **“真实世界资产上链 + 链上即时交易”** 的创新模式。  
+
+核心愿景：  
+> 让全球用户以去中心化方式参与人工智能企业的股权成长红利。
+
+---
+
+## 2. Ecosystem & Background 背景与生态  
+
+**Intercontinental Exchange (stocks33.com)** 是一个专注于 **RWA（Real World Asset）代币化** 的综合平台，  
+目标是将真实世界的股票、信托基金、资产包映射为可在区块链上自由交易的数字代币。  
+
+生态结构包括：  
+- 🌐 **stocks33.com** — 官方交易与数据门户  
+- 🏦 **RWA Trust Custody** — 线下托管机构，负责持有真实资产  
+- 💠 **VRWAStocks Protocol** — RWA 上链协议层，负责映射与价格同步  
+- 💹 **DEX Integration** — 与 Raydium、Jupiter、OKX Web3 等去中心化交易所对接  
+- 💼 **Investor Access** — 用户通过钱包直接购买、交易或提供流动性  
+
+---
+
+## 3. Token Information 代币信息  
+
+| 项目 | 内容 |
+|------|------|
+| **Token Name** | YYAI Token |
+| **Symbol** | YYAI33 |
+| **Blockchain** | Solana |
+| **Standard** | SPL Token |
+| **Total Supply** | 1,000,000 YYAI33 |
+| **Mint Authority** | Revoked (已撤销) |
+| **Decimals** | 6 |
+| **Contract (Mint Address)** | `（此处填写你的代币 Mint 地址）` |
+| **Launch Date (TGE)** | 2025-10-25 |
+| **Current Circulation** | 100,000 YYAI33 |
+| **Liquidity Source** | Raydium AMM + OKX Web3 DEX (via Jupiter Aggregator) |
+| **Official Website** | [https://stocks33.com] |
+| **Explorer** | [https://solscan.io/token/Dy3yEZ77RbNTNDBiyXKwnR2n4MjbfHpubWJEqSck29M6](https://solscan.io/token/Dy3yEZ77RbNTNDBiyXKwnR2n4MjbfHpubWJEqSck29M6) |
+
+---
+
+## 4. Token Distribution 代币分配  
+
+| 分类 | 数量 | 占比 | 用途说明 |
+|------|------|------|----------|
+| **Public Liquidity Pool** | 100,000 | 10% | 已投入 Raydium/OKX 测试资金池，用于初期价格发现与流动性验证 |
+| **RWA Trust Reserve** | 500,000 | 50% | 由洲际交易所信托账户托管，用于未来与真实 AI 企业股权映射 |
+| **Ecosystem & Community** | 250,000 | 25% | 用于生态合作、社区激励、市场拓展与跨链接入 |
+| **Team & Development** | 100,000 | 10% | 团队激励与技术持续开发 |
+| **Strategic Reserve** | 50,000 | 5% | 预留用于未来机构合作与指数产品抵押 |
+
+> ✅ 当前流通量：**10%（100,000 枚）**  
+> ✅ 其余 90% 均在托管或锁定状态。
+
+---
+
+### Visualization 可视化分配图  
+
+🟦 Public Liquidity 10%  
+🟧 RWA Reserve 50%  
+🟩 Ecosystem 25%  
+🟥 Team 10%  
+🟨 Reserve 5%
+
+---
+
+## 5. Token Utility 代币功能  
+
+- 💱 **Decentralized Trading**  
+  YYAI33 可在 Solana 主网的 DEX（如 Raydium / OKX Web3 / Jupiter）上自由交易。  
+
+- 💧 **Liquidity Farming**  
+  代币持有者可在资金池中提供流动性以获得手续费收益或未来生态奖励。  
+
+- 🔗 **RWA Representation**  
+  每个代币对应信托托管下的真实 AI 企业股权组合，具备资产映射的透明机制。  
+
+- 🧭 **Governance (Planned)**  
+  未来将开放治理机制，让持币用户可参与生态决策及资产上链优先权投票。  
+
+---
+
+## 6. Tokenomics Summary 经济模型概览  
+
+- **Total Supply:** 1,000,000 YYAI33  
+- **Initial Circulation:** 100,000 (10%)  
+- **Emission Model:** Fixed Supply (无通胀)  
+- **Mint Authority:** Revoked  
+- **Burn Mechanism:** 无自动销毁，未来可通过 DAO 提案实施。  
+
+---
+
+## 7. Future Roadmap 未来规划  
+
+| 阶段 | 时间 | 目标 |
+|------|------|------|
+| **Q4 2025** | 完成代币在 CoinGecko / CMC 上线，完善白皮书公开档案 |
+| **Q1 2026** | 开启 RWA 信托结构披露，完成 AI 股权信托备案 |
+| **Q2 2026** | 推出 YYAI Index (AI 行业指数代币) |
+| **Q3 2026** | 推出 DAO 治理模块与流动性激励计划 |
+| **Q4 2026** | 扩展跨链 RWA 桥梁至 BSC / Ethereum 网络 |
+
+---
+
+## 8. Compliance & Disclaimer 合规与免责声明  
+
+**YYAI33** is a blockchain-based RWA asset designed for transparent digital representation of AI-related equity portfolios.  
+It does **not** constitute legal ownership or equity rights in any company.  
+All operations comply with decentralized market principles on the Solana blockchain.
+
+**YYAI33 为实验性 RWA 映射资产**，不代表传统证券或股权权益。  
+其目标是通过技术验证与信托托底机制，探索人工智能类股票资产的去中心化代币化通路。  
+用户参与前应充分了解区块链资产风险。
+
+---
+
+## 9. Contact 联系方式  
+
+- 🌐 Website: [https://stocks33.com](https://stocks33.com)  
+- 🐦 Twitter (X): [https://x.com/bool012512](https://x.com/bool012512)  
+- 📧 Email: bool012512@gmail.com  
+
+---
+
+### © 2025 Intercontinental Exchange (stocks33.com)
+All rights reserved.

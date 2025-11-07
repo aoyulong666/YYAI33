@@ -20,7 +20,7 @@
 - 🐦 **Twitter (X):** [https://x.com/bool012512](https://x.com/bool012512)
 - 💧 **Liquidity Pool:** [Raydium / OKX Web3 via Jupiter](https://jup.ag/swap/USDT-YYAI33)
 - 📄 **GitHub Repo:** [https://github.com/aoyulong666/YYAI33](https://github.com/aoyulong666/YYAI33)
-- 🖼️ **Token Logo:** ![YYAI33 Logo](https://github.com/aoyulong666/YYAI33/blob/main/?raw=true)
+- 🖼️ **Token Logo:** ![YYAI33 Logo](https://github.com/aoyulong666/YYAI33/blob/main/YYAI_image_unified.png?raw=true)
 
 ---
 

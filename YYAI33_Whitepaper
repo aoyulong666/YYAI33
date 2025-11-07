@@ -40,7 +40,7 @@ It represents a new form of **Real-World Asset (RWA)**, where off-chain AI compa
 | **Blockchain** | Solana |
 | **Standard** | SPL Token |
 | **Total Supply** | 1,000,000 YYAI33 |
-| **Mint Authority** | Revoked (已撤销) |
+| **Mint Authority** | Active (to be revoked after liquidity verification) |
 | **Decimals** | 6 |
 | **Contract (Mint Address)** | `（此处填写你的代币 Mint 地址）` |
 | **Launch Date (TGE)** | 2025-10-21 |

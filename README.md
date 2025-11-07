@@ -29,9 +29,6 @@ MIT License © 2025 Intercontinental Exchange (stocks33.com)
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files...
 
-yaml
-复制代码
-
 ---
 
 > 🧭 *Intercontinental Exchange | Tokenized AI RWA Innovation on Solana.*
